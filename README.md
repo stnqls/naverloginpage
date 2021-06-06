@@ -3,7 +3,6 @@
 
 네이버 로그인페이지 만들어보기.
 ![naver-longin](https://user-images.githubusercontent.com/81519415/120932831-6e6f1d00-c732-11eb-9ca1-946be102bd03.png)
-)
 
 ## 오픈 그래프 설정
 
